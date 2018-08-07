@@ -1,7 +1,7 @@
 {
   "name": "fluxor",
-  "version": "1.0.0",
-  "description": "A state management based on flux architech",
+  "version": "1.0.1",
+  "description": "A state management based on flux architecture",
   "main": "./dist/index.js",
   "scripts": {
     "test": "npm test"

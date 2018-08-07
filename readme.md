@@ -1,5 +1,5 @@
 # Fluxor
-A state management based on flux architech
+A state management based on flux architecture
 
 ```js
 import { createStore, delay } from './fluxor';
