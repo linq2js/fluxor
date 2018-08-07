@@ -1,0 +1,31 @@
+{
+  "name": "fluxor",
+  "version": "1.0.0",
+  "description": "A state management based on flux architech",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linq2js/fluxor.git"
+  },
+  "keywords": [
+    "functional",
+    "flux",
+    "state",
+    "state management"
+  ],
+  "author": "linq2js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linq2js/fluxor/issues"
+  },
+  "homepage": "https://github.com/linq2js/fluxor#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
